@@ -3,10 +3,11 @@
 A simple travel guide app
 
 
-![Screenshot_1617550442](https://user-images.githubusercontent.com/67954031/116114049-a5372980-a6d6-11eb-95fe-505a05d83e18.png)
-![Screenshot_1617550674](https://user-images.githubusercontent.com/67954031/116114057-a6685680-a6d6-11eb-8d22-6043fc53d46f.png)
-![Screenshot_1617550400](https://user-images.githubusercontent.com/67954031/116114062-a7998380-a6d6-11eb-862d-6d5c547f31c6.png)
-![Screenshot_1617550390](https://user-images.githubusercontent.com/67954031/116114066-a9634700-a6d6-11eb-894d-4ce58f1dc003.png)
+![Screenshot_1617550390](https://user-images.githubusercontent.com/67954031/116114297-da437c00-a6d6-11eb-8ccb-e72a579af88b.png)
+![Screenshot_1617550400](https://user-images.githubusercontent.com/67954031/116114308-dca5d600-a6d6-11eb-829d-db1fe2037862.png)
+![Screenshot_1617550674](https://user-images.githubusercontent.com/67954031/116114312-df083000-a6d6-11eb-9bee-255a07830722.png)
+![Screenshot_1617550442](https://user-images.githubusercontent.com/67954031/116114318-e0395d00-a6d6-11eb-8035-e3ebd1e2ec59.png)
+
 
 
 ## Getting Started
